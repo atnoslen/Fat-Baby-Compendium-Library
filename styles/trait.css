@@ -16,7 +16,8 @@ section.traits-bar div.trait {
 }
 
 section.traits-bar div.trait a {
-    padding: 0.115em;
+    /* padding: 0.115em; */
+	bordern:none;
 	box-shadow:none;
 	background-color:unset;
 	font-weight:bold;
