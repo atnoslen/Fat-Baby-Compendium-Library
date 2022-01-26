@@ -13,12 +13,15 @@
       "url": "https://github.com/atnoslen"
     }
   ],
+  "esmodules": [
+    "./scripts/window-popout.js"
+  ],
   "styles": [
-    "/styles/alignment.css",
-    "/styles/float.css",
-    "/styles/infobox-types.css",
-    "/styles/infobox.css",
-    "/styles/trait.css"
+    "./styles/alignment.css",
+    "./styles/float.css",
+    "./styles/infobox-types.css",
+    "./styles/infobox.css",
+    "./styles/trait.css"
   ],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
