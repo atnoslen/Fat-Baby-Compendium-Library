@@ -1,0 +1,33 @@
+section.traits-bar {
+	align-items:flex-start;
+	display:flex;
+	margin-bottom: 0.5em;
+	flex-wrap:wrap;
+}
+
+section.traits-bar div.trait {
+	margin:0 !important;
+	font-size:0.8em;
+	font-weight: bold;
+    text-transform: uppercase;
+    border:2px double #d8c483;
+    color: #fff;
+    background-color: #5e0000;
+}
+
+section.traits-bar div.trait a {
+    padding: 0.115em;
+	box-shadow:none;
+	background-color:unset;
+	font-weight:bold;
+	margin:0;
+	font-size: 1em;
+}
+
+section.traits-bar div.trait.alignment {
+	background-color:#4287f5;
+}
+
+section.traits-bar div.trait.uncommon {
+	background-color:#c45500;
+}

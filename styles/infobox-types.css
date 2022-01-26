@@ -1,0 +1,49 @@
+div.infobox div.infobox-title.city {
+	background-color:#363;
+	color:#fff;
+}
+
+
+div.infobox div.infobox-title.nation {
+	background-color:#060;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.diety {
+	background-color:#099;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.plane {
+	background-color:#999;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.person {
+	background-color:#669;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.organization {
+	background-color:#057;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.cosmos {
+	background-color:#32cd32;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.creature {
+	background-color:#900;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.magic-item {
+	background-color:#609;
+	color:#fff;
+}
+
+div.infobox div.infobox-title.magic-item:first-child {
+	font-style:italic
+}

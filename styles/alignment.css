@@ -1,0 +1,28 @@
+/* 
+ * To style alignment grids within an infobox.
+ */
+
+table.fw-alignment-grid {
+	width:90px;
+	margin:0;
+	text-align:center;
+	font-size:smaller;
+	padding:0.2em;
+	border:1px solid #999999;
+	border-collapse: separate;
+}
+
+.infobox table.fw-alignment-grid tr.fw-alignment-cells td {
+	padding-bottom:0;
+}
+
+.fw-alignment-off {
+	background-color:#d9d9d9;
+	border:1px solid #d9d9d9;
+}
+
+
+.fw-alignment-on {
+	background-color:#9fc7fe;
+	border:1px solid #185dbb;
+}

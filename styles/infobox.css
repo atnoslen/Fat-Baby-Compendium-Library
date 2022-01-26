@@ -1,0 +1,117 @@
+div.infobox {
+	float: right !important;
+	margin: 1em 0 0.5em 1em !important;
+	width: 252px !important;
+	background-color: beige !important;
+	font-size:0.875em;
+	box-shadow: 0.3125em 0.3125em 0.3125em rgba(0,0,0,0.2) !important;
+	border:1px solid silver !important;
+	padding:0 !important;
+	clear:right !important;
+}
+
+div.infobox div.infobox-title {
+	text-align:center !important;
+	font-weight:bold !important;
+	padding:5px !important;
+	margin:0 !important;
+	font-size:0.875em !important;
+	font-family:"Alegreya Sans",sans-serif;
+}
+
+div.infobox div.infobox-title+section {
+	margin-top:0;
+}
+
+
+div.infobox div.infobox-title div.infobox-image {
+	text-align:center !important;
+    padding:0 !important;
+	margin:0 !important;
+	background-color:#fff;
+}
+
+div.infobox div.infobox-title div.infobox-image a {
+	box-shadow:none !important;
+    border:none;
+	padding:0;
+	background:none;
+}
+
+div.infobox div.infobox-title div.infobox-image img {
+	background-color:#fff !important;
+	padding:0 !important;
+	border:0 !important;
+	border-radius:0 !important;
+	border-spacing:0 !important;
+    width:252px;
+}
+
+
+
+div.infobox div.infobox-details {
+	width:100% !important;
+	margin:0 !important;
+}
+
+div.infobox div.infobox-details hr {
+	margin: 0.5em;
+}
+
+
+
+div.infobox div.infobox-details section.row {
+	margin:0.5em 0 0 0 !important;
+}
+
+div.infobox div.infobox-details section.row:after {
+	content:"" !important;
+	display:table !important;
+	clear:both !important;
+}
+
+div.infobox div.infobox-details section.secret {
+	padding:0 !important;
+}
+
+
+
+div.infobox div.infobox-details section.row div.column-header {
+	float:left;
+	width:94px;
+	padding:0px 4px 0 4px;
+	font-weight:bold;
+	font-size:0.85em;
+	font-family:"Alegreya Sans",sans-serif;
+}
+
+div.infobox div.infobox-details section.row div.column-details {
+	float:left !important;
+	padding:3px 4px 4px 4px !important;
+	width:154px !important;
+	margin:0 !important;
+	font-size:0.85em !important;
+	font-family:"Alegreya Sans",sans-serif;
+}
+
+div.infobox div.infobox-details section.row div.column-details p:first-child,
+div.infobox div.infobox-details section.row div.column-details section:first-child {
+	margin-top:0 !important;
+}
+
+div.infobox div.infobox-details section.row div.column-details p,
+div.infobox div.infobox-details section.row div.column-details section {
+	font-weight:normal;
+	margin-top:0.6em !important;
+	margin-bottom:0 !important;
+	line-height:1.1 !important;
+}
+
+div.infobox div.infobox-details section.row div.column-details section ul {
+	margin:0;
+	margin-top:0 !important;
+}
+
+div.infobox div.infobox-details section.row section.alternate-domain {
+	font-style:italic;
+}
