@@ -24,21 +24,21 @@ div.infobox div.infobox-title+section {
 }
 
 
-div.infobox div.infobox-title div.infobox-image {
+div.infobox div.infobox-image {
 	text-align:center !important;
     padding:0 !important;
 	margin:0 !important;
 	background-color:#fff;
 }
 
-div.infobox div.infobox-title div.infobox-image a {
+div.infobox div.infobox-image a {
 	box-shadow:none !important;
     border:none;
 	padding:0;
 	background:none;
 }
 
-div.infobox div.infobox-title div.infobox-image img {
+div.infobox div.infobox-image img {
 	background-color:#fff !important;
 	padding:0 !important;
 	border:0 !important;
