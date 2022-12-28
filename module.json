@@ -21,7 +21,8 @@
     "./styles/float.css",
     "./styles/infobox-types.css",
     "./styles/infobox.css",
-    "./styles/trait.css"
+    "./styles/trait.css",
+    "./styles/style.css"
   ],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",

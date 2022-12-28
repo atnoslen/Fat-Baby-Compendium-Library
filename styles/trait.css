@@ -7,12 +7,17 @@ section.traits-bar {
 
 section.traits-bar div.trait {
 	margin:0 !important;
+	padding: 0 0.35em;
 	font-size:0.8em;
 	font-weight: bold;
     text-transform: uppercase;
     border:2px double #d8c483;
     color: #fff;
     background-color: #5e0000;
+}
+
+section.traits-bar div.trait p {
+	margin:0;
 }
 
 section.traits-bar div.trait a {
