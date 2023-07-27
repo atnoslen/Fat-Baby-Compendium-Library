@@ -2,6 +2,10 @@ section.journal-page-content :is(h1, h2, h3, h4, h5, h6) {
     overflow:hidden;
 }
 
+section.journal-page-content button.reveal {
+	display:none;
+}
+
 article.journal-entry-page header.journal-page-header {
     overflow:hidden;
 }
