@@ -116,3 +116,7 @@ div.infobox div.infobox-details section.row div.column-details section ul {
 div.infobox div.infobox-details section.row section.alternate-domain {
 	font-style:italic;
 }
+
+div.infobox div.infobox-details button.reveal {
+	display:none;
+}
