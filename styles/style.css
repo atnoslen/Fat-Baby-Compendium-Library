@@ -14,3 +14,23 @@ p.main-article {
     margin: 16px;
     font-style: italic;
 }
+
+section.journal-page-content div.pf2-header {
+    color:#cbc18f;
+    background-color:#522e2c;
+    font:'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-variant:small-caps;
+}
+
+section.journal-page-content div.pf2-header p {
+    font-size:1.75em;
+    font-weight:bold;
+    display:flex;
+    width:100%
+}
+
+section.journal-page-content div.pf2-header p span:nth-child(2) {
+    margin-left:auto;
+    margin-right:0;
+    font-weight:bold;
+}
