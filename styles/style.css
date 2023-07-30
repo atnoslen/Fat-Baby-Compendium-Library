@@ -32,4 +32,5 @@ section.journal-page-content div.pf2-header p {
 section.journal-page-content div.pf2-header p span:nth-child(2) {
     margin-left:auto;
     margin-right:0;
+    font-weight:bold;
 }
