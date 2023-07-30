@@ -29,7 +29,7 @@ section.journal-page-content div.pf2-header p {
     width:100%
 }
 
-section.journal-page-content div.pf2-header p span:nth-child(2) {
+section.journal-page-content div.pf2-header p span {
     margin-left:auto;
     margin-right:0;
 }
